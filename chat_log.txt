@@ -1,0 +1,11 @@
+24/05/20 17:19:07 ЛОГИН : Hello! How is it going? 
+24/05/20 17:19:25 ЛОГИН : Thanks! Great! 
+24/05/20 17:19:41 ЛОГИН : What do you do?
+24/05/20 17:20:05 ЛОГИН : Im learning programming in Java Lang/
+24/05/20 17:21:12 ЛОГИН : Wow! Is it interesting? Do you like it?
+24/05/20 17:22:06 ЛОГИН : Yes. Also I beacome tired after lessons))
+24/05/20 17:33:55 ЛОГИН Sa : Good day
+24/05/20 17:34:01 ЛОГИН Sa : 
+24/05/20 17:35:59 Dev : adb
+24/05/20 17:36:01 Dev : ffhh
+24/05/20 17:36:03 Dev : lalal
